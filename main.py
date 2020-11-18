@@ -1,1 +1,1 @@
-print("it's a master branch")
+print("it's a master -> dev branch")
